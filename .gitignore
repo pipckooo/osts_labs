@@ -3,3 +3,4 @@ myenv/
 .ipynb_checkpoints/
 backups/
 backup
+src/
